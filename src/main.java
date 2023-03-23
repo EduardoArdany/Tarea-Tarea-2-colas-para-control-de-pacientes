@@ -11,7 +11,7 @@ public class main {
         PacientesModel ModeloPacientes = new PacientesModel();
         
         Controller PacienteControlador = new Controller(VistaPrincipal, ModeloPacientes);
-        
+     //a
     }
     
 }
